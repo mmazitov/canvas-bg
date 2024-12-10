@@ -1,9 +1,3 @@
-<div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Book App" />
-
-  &#xa0;
-</div>
-
 <h1 align="center">Particle Background Animation</h1>
 
 ## 🎯 About 
